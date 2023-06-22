@@ -1,0 +1,24 @@
+{
+  "template": "https://github.com/brian-rose/cookbook-cookiecutter/",
+  "commit": "a1bbb66313f5ef0dfd652682494256fe17aba8df",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "A Crufty Cookbook",
+      "project_slug": "a-crufty-cookbook",
+      "email": "brose@albany.edu",
+      "github_org": "brian-rose",
+      "repo_name": "a-crufty-cookbook",
+      "repo_url": "https://github.com/brian-rose/a-crufty-cookbook",
+      "environment_name": "crufty-cookbook-dev",
+      "first_author_name": "Brian Rose",
+      "first_author_github_username": "brian-rose",
+      "second_author_name": "Second Author",
+      "second_author_github_username": "second-author",
+      "short_description": "A demo cookbook made with cruft'",
+      "copyright_name": "the Project Pythia Community",
+      "_template": "https://github.com/brian-rose/cookbook-cookiecutter/"
+    }
+  },
+  "directory": null
+}

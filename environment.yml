@@ -1,0 +1,18 @@
+name: crufty-cookbook-dev
+channels:
+  - conda-forge
+dependencies:
+  - jupyter-book
+  - jupyterlab
+  - jupyter_server
+  - python>=3.10  # shouldn’t need this but we seem to on the binder
+  - matplotlib
+  - xarray
+  - pandas
+  - intake-esm
+  - fsspec
+  - gcsfs
+  - nc-time-axis
+  - pip
+  - pip:
+      - sphinx-pythia-theme
